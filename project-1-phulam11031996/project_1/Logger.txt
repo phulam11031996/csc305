@@ -1,0 +1,6 @@
+Oct 16, 2022 10:00:45 AM project_one.Parser removeAndLogBadArticles
+WARNING: Parsing Error
+Oct 16, 2022 10:00:45 AM project_one.Parser removeAndLogBadArticles
+WARNING: Parsing Error
+Oct 16, 2022 10:00:45 AM project_one.Parser removeAndLogBadArticles
+WARNING: Parsing Error
